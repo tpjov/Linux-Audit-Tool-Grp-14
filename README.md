@@ -52,6 +52,19 @@ To run:
 ```bash
 python3 ubuntu_audit.py
 ```
+---
 
+## CIS Benchmark PDF
 
+You can view or download the official CIS Benchmark PDF here:
 
+[Download CIS Benchmark (Ubuntu 12.04 LTS v1.1.0)](./CIS_Ubuntu_12.04_LTS_Server_Benchmark_v1.1.0_ARCHIVE.pdf)
+
+## Authors
+
+Group 14 - Temasek Polytechnic
+Year 3 students of Cybersecurity & Digital Forensics
+
+## Disclaimer
+
+This tool is intended for educational use only.
