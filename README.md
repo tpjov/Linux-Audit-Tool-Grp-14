@@ -50,7 +50,8 @@ chmod +x chapter*.sh allchapters.sh
 To run: 
 
 ```bash
-python3 ubuntu_audit_gui.py
+python3 ubuntu_audit.py
 ```
+
 
 
