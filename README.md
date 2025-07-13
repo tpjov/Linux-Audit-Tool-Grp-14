@@ -29,6 +29,11 @@ You can download the entire tool (scripts + GUI + CIS Benchmark) using this ZIP 
 
 - Ensure the following packages are installed on your **Ubuntu system**:
 
+- Python 3 (`python3`)
+- `tkinter`  
+- `matplotlib`
+
+Install the following using: 
 ```bash
 sudo apt update
 sudo apt install -y python3 python3-pip python3-tk git
@@ -46,7 +51,10 @@ Make them executable in the case that they aren't.
 ```bash
 chmod +x chapter*.sh allchapters.sh
 ```
-
+The '*' stands for the chapter number, so e.g. 
+```bash
+chmod +x chapter1.sh allchapters.sh
+```
 To run: 
 
 ```bash
