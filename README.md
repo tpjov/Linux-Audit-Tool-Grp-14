@@ -21,7 +21,7 @@ It strictly follows the CIS Ubuntu 12.04 LTS Server Benchmark (v1.1.0  -   01 - 
 
 You can download the entire tool (scripts + GUI + CIS Benchmark) using this ZIP link:
 
-🔗 **[Download ZIP](https://github.com/tpjov/Linux-Audit-Tool-Grp-14/archive/refs/heads/main.zip)**
+🔗 **[Download Audit Tool ZIP](https://github.com/tpjov/Linux-Audit-Tool-Grp-14/archive/refs/heads/main.zip)**
 
 ---
 
