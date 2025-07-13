@@ -23,7 +23,7 @@ It strictly follows the CIS Ubuntu 12.04 LTS Server Benchmark (v1.1.0  -   01 - 
 
 You can download the official CIS Benchmark used by this audit tool:
 
-[📄 Download CIS Benchmark](./CIS_Ubuntu_12.04_LTS_Server_Benchmark_v1.1.0_ARCHIVE.pdf)
+[📄 Download CIS Benchmark v1.1.0](./CIS_Ubuntu_12.04_LTS_Server_Benchmark_v1.1.0_ARCHIVE.pdf)
 
 ## Requirements
 
@@ -48,8 +48,6 @@ chmod +x chapter*.sh allchapters.sh
 ```
 
 To run: 
-
-
 
 ```bash
 python3 ubuntu_audit_gui.py
