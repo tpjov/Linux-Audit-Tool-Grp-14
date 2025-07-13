@@ -29,3 +29,24 @@ It strictly follows the CIS Ubuntu 12.04 LTS Server Benchmark (v1.1.0  -   01 - 
 sudo apt update
 sudo apt install -y python3 python3-pip python3-tk git
 pip3 install matplotlib
+```
+
+---
+
+## How to run
+
+*Ensure all chapterX.sh scripts are placed in the same folder as the Python script.*
+
+Make them executable in the case that they aren't.
+
+```bash
+chmod +x chapter*.sh allchapters.sh
+```
+
+To run: 
+
+```bash
+python3 ubuntu_audit_gui.py
+```
+
+
