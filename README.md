@@ -8,7 +8,7 @@ It strictly follows the CIS Ubuntu 12.04 LTS Server Benchmark (v1.1.0  -   01 - 
 
 ## Features
 
-- ✅ Automated; the script runs everything for you, all you have to do is click the button
+- ✅ All chapters (Ch1-13) are covered
 - 📊 Pie chart summary of results using Matplotlib
 - 🌓 Light/Dark Mode toggle
 - 🔠 Adjustable font size
