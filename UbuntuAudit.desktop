@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Ubuntu CIS Audit Tool
+Comment=Run the Ubuntu CIS Audit GUI
+Exec=sh -c 'cd "$(dirname "$0")" && python3 ubuntu_audit.py'
+Path=.
+Terminal=false
+Icon=utilities-terminal
+Categories=Utility;
+
