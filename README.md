@@ -42,25 +42,16 @@ pip3 install matplotlib
 
 ---
 
-## How to run
+## How to install + run the tool
 
-*Ensure all chapterX.sh scripts are placed in the same folder as the Python script.*
 
-Make them executable in the case that they aren't.
-
-```bash
-chmod +x chapter*.sh allchapters.sh
+1. Download the ZIP file in your Ubuntu system
+2. Unzip and extract the file (*Ensure all chapterX.sh scripts are placed in the same folder as the Python script.*)
+3. Open terminal and type this in:
 ```
-The '*' stands for the chapter number, so e.g. 
-```bash
-chmod +x chapter1.sh allchapters.sh
+sudo python3 ubuntu_audit.py
 ```
-To run: 
-
-```bash
-python3 ubuntu_audit.py
-```
----
+4. The tool has now been launched!
 
 ## CIS Benchmark PDF
 
