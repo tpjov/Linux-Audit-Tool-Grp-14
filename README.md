@@ -53,6 +53,8 @@ sudo python3 ubuntu_audit.py
 ```
 4. The tool has now been launched!
 
+**NOTE: sudo MUST be used, as certain audit checks require higher privileges!**
+
 ## CIS Benchmark PDF
 
 You can view or download the official CIS Benchmark PDF here:
